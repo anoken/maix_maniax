@@ -1,6 +1,8 @@
 
 # MAix MAniaX
 
+<img src="https://github.com/anoken/maix_maniax/blob/master/images/001.png" width="400">
+
 「MAix MAniaX 」のサポートページです。
 
 #紹介
