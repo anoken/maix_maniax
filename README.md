@@ -1,3 +1,3 @@
-# maix_maniax
+# MAix MAniaX
 
 「MAix MAniaX 」のサポートページです。
