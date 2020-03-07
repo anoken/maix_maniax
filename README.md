@@ -18,7 +18,8 @@ https://techbookfest.org/product/5708910405091328
 BOOTH 
 <br> 
 https://anoken.booth.pm/items/1774794
-取り扱っています。
+<br> 
+で取り扱っています。
 
 
 # 目次
