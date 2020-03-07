@@ -113,6 +113,5 @@ Sipeed MaixはKendryte K210というSoCを搭載しており、小さいマイ�
 7.3.3 TensorFlow/Keras で加速度データでモーションの学習を
 行う
 7.3.4 CheeringWatch の実装
-7.3.5 見守りアラートの実装
-7.3.6 CheeringWatch をクラウドサービスAmbient に接続する
+7.3.5 CheeringWatch をクラウドサービスAmbient に接続する
 
