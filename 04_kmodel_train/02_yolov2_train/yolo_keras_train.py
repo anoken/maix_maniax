@@ -1,3 +1,5 @@
+## Copyright (c) 2019 aNoken
+
 import keras
 from keras.models import Model
 from keras.layers import Reshape,  Conv2D, Input
