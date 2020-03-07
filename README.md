@@ -1,4 +1,3 @@
-
 # MAix MAniaX
 
 <img src="https://github.com/anoken/maix_maniax/blob/master/images/001.png" width="400">
@@ -9,6 +8,12 @@
 Sipeed MaixはKendryte K210というSoCを搭載しており、小さいマイコンの中で、ディープラーニングを使った画像処理を高速に動かすことができる、今話題のデバイスです。本書は、Sipeed Maixの基礎から、深層学習モデルの作り方、Maixの最新情報、AIOTの応用事例まで、Maixを使い倒すための情報をたくさん盛り込んでいます。筆者が感じているこのデバイスの面白さを使えることができれば、望外の喜びです。
 
 あなたも本書とMaixで、AIOTの世界を体験してみませんか！？
+
+技術書典8 応援祭り
+https://techbookfest.org/product/5708910405091328
+
+BOOTH 
+https://anoken.booth.pm/items/1774794
 
 # 目次
 
