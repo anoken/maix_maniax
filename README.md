@@ -15,9 +15,6 @@ Sipeed MaixはKendryte K210というSoCを搭載しており、小さいマイ�
 <br> 
 https://techbookfest.org/product/5708910405091328
 <br> 
-BOOTH 
-<br> 
-https://anoken.booth.pm/items/1774794
 <br> 
 で取り扱っています。
 
