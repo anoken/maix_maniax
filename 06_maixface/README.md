@@ -20,14 +20,14 @@ $ conda activate ml
 $ pip install -r requirements.txt
 ~~~
 
-#### MaixPy firmware Build
+#### kendryte-toolchain Install
 ~~~
 $ wget http://dl.cdn.sipeed.com/kendryte-toolchain-ubuntu-amd64-8.2.0-20190409.tar.xz
 $ sudo tar -Jxvf kendryte-toolchain-ubuntu-amd64-8.2.0-20190409.tar.xz -C /opt
 $ ls /opt/kendryte-toolchain/bin
 ~~~
 
-#### kendryte-toolchain Install
+#### MaixPy firmware Build
 
 ~~~
 $ cd MaixPy
