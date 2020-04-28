@@ -1,4 +1,4 @@
-## classification 
+## classification DATASET
 
 #### Flower Image Dataset:
 https://www.tensorflow.org/tutorials/load_data/images
@@ -14,7 +14,7 @@ http://image-net.org/challenges/LSVRC/2012/
 
 http://academictorrents.com/collection/imagenet-2012
 
-## Object Detection
+## Object Detection DATASET
 
 #### Raccoon Detector Dataset
 https://github.com/datitran/raccoon_dataset
