@@ -5,6 +5,8 @@ https://www.maixhub.com/index.php/index/index/detail/id/235.html
 
 ### MaixPy firmware Configration
 
+Within Ubuntu Enviroment
+
 #### downloads
 
 ~~~
