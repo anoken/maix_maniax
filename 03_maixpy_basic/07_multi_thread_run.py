@@ -3,6 +3,7 @@
 from Maix import GPIO
 from fpioa_manager import fm
 import _thread, time
+import lcd
 
 lcd.init()
 lcd.clear()
