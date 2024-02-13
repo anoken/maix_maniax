@@ -2,6 +2,7 @@
 
 import ulab as np
 import random
+import time
 
 clock = time.clock()
 a = []
